@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\shrew\source\repos\gme\gme\main.c(184): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shrew\source\repos\gme\gme\main.c(115): warning C4715: 'DrawMap': not all control paths return a value
+  Gme.vcxproj -> c:\Users\shrew\source\repos\Gme\Debug\Gme.exe

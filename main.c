@@ -169,7 +169,7 @@ void Die(int a)
 
 int main()
 {
-	
+	//Main Function
 
 	srand(time(0));
 

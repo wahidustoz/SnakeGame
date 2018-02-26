@@ -169,17 +169,7 @@ void Die(int a)
 
 int main()
 {
-	//1. Add a functionality called FinishGame()
-	// when the lives is 0, ask the user if they want to start over
-
-
-	//2. modify EatFood() function
-	// make it increase speed slowly as they increase score
-
-	//3. Modify. 
-	// when the snake is moving up, if you press down key, it moves down
-	// make it impossible to move in the opposite direction
-	// for example, dont move left when you are moving right
+	
 
 	srand(time(0));
 
